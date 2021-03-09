@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31025.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NorseCore", "NorseCore\NorseCore.csproj", "{8606153F-2430-4AE2-8F17-BCFEA49E5162}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NorseCanvas", "NorseCanvas\NorseCanvas.csproj", "{A7D6EC26-D3C7-4A00-A6BE-104F751432E7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8606153F-2430-4AE2-8F17-BCFEA49E5162}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8606153F-2430-4AE2-8F17-BCFEA49E5162}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8606153F-2430-4AE2-8F17-BCFEA49E5162}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8606153F-2430-4AE2-8F17-BCFEA49E5162}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A7D6EC26-D3C7-4A00-A6BE-104F751432E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7D6EC26-D3C7-4A00-A6BE-104F751432E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7D6EC26-D3C7-4A00-A6BE-104F751432E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7D6EC26-D3C7-4A00-A6BE-104F751432E7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {751CF803-9914-498D-B540-286DE3E38D1E}
+	EndGlobalSection
+EndGlobal
