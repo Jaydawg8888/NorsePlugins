@@ -31,7 +31,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="CoreGlobal.cs" />
+    <Compile Include="NorseCoreGlobal.cs" />
     <Compile Include="NorseLogging.cs" />
     <Compile Include="NorseCore.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -43,9 +43,6 @@
     <Reference Include="0Harmony, Version=2.3.2.0, Culture=neutral, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
       <HintPath>..\Libs\BepInEx\0Harmony.dll</HintPath>
-    </Reference>
-    <Reference Include="assembly_valheim">
-      <HintPath>..\Libs\Unity\assembly_valheim.dll</HintPath>
     </Reference>
     <Reference Include="BepInEx, Version=5.4.8.0, Culture=neutral, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>

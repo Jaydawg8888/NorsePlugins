@@ -3,7 +3,7 @@ using HarmonyLib;
 
 namespace NorseCore
 {
-    [BepInPlugin(CoreGlobal.pluginGUID, CoreGlobal.pluginName, CoreGlobal.pluginVersion)]
+    [BepInPlugin(NorseCoreGlobal.pluginGUID, NorseCoreGlobal.pluginName, NorseCoreGlobal.pluginVersion)]
     [BepInProcess("valheim.exe")]
     public class NorseCore : BaseUnityPlugin
     {

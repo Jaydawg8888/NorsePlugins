@@ -1,6 +1,6 @@
 ﻿namespace NorseCore
 {
-    public static class CoreGlobal
+    public static class NorseCoreGlobal
     {
         // I really really dislike globals, but its easier to call CoreGlobal so the dependencies all line up :/
         public const string pluginGUID = "org.bepinex.plugins.norse_core";

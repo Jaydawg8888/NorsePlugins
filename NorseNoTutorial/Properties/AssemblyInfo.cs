@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("NorseEpicSiege")]
+[assembly: AssemblyTitle("NorseMerchantPlus")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("NorseEpicSiege")]
+[assembly: AssemblyProduct("NorseMerchantPlus")]
 [assembly: AssemblyCopyright("Copyright ©  2021")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("5de82d89-f483-4b14-be90-b15df6163a2e")]
+[assembly: Guid("51582c45-7e8c-4f38-a6b1-dc6c19781efa")]
 
 // Version information for an assembly consists of the following four values:
 //

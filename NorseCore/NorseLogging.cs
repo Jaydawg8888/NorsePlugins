@@ -8,7 +8,6 @@ namespace NorseCore
 {
     public sealed class NorseLogging
     {
-
         #region Constructor
         public NorseLogging(ManualLogSource manualLogSource)
         {
