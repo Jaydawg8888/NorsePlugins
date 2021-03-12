@@ -3,9 +3,8 @@ using BepInEx.Configuration;
 using HarmonyLib;
 using NorseCore;
 using System.Reflection;
-using static Raven;
 
-namespace NorseNoTutorial
+namespace NorseNoHugin
 {
     [BepInPlugin("org.bepinex.plugins.norse_no_hugin", "Norse No Hugin", "1.0.0.0")]
     [BepInDependency(NorseCoreGlobal.pluginGUID)]
