@@ -40,9 +40,6 @@ namespace NorseNoHugin
 
                 if (text.m_key.Length > 0 && localPlayer.HaveSeenTutorial(text.m_key) == false)
                 {
-                    LoggerInstance.CreateConsoleLog(text.m_key);
-                    LoggerInstance.CreateConsoleLog(text.m_text);
-
                     if (text.m_label.Length > 0)
                     {
                         localPlayer.AddKnownText(text.m_label, text.m_text);

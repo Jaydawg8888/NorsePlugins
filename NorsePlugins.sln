@@ -5,7 +5,7 @@ VisualStudioVersion = 16.0.31025.194
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NorseCore", "NorseCore\NorseCore.csproj", "{8606153F-2430-4AE2-8F17-BCFEA49E5162}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NorseNoHugin", "NorseNoTutorial\NorseNoHugin.csproj", "{51582C45-7E8C-4F38-A6B1-DC6C19781EFA}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NorseNoHugin", "NorseNoHugin\NorseNoHugin.csproj", "{51582C45-7E8C-4F38-A6B1-DC6C19781EFA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
